@@ -6,3 +6,5 @@
 6) I contain yaccKey and yaccKeyActn in yaccCode and cParen.
 7) Support for locations
 8) Double-quoted strings are legal too.
+9) Removed Bison and Flex syntax highlighting.
+10) Removed highlighting for Operators and Delimitors
